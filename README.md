@@ -17,5 +17,5 @@
 13. Charis 
 14. !grace_terminal!
 15. Evris
-16. George A
+16. George A!
 17. Charalambos
